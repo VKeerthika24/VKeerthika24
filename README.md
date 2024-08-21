@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Keerthika V
-- 👀 I’m interested in Full stack Stack Development.
+- 👀 I’m interested in Full Stack Development.
 - 🌱 I’m currently learning React JS.
 - 📫 How to reach me vkkeerthika24@gmail.com
 <!---
