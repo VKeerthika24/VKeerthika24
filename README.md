@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Keerthika V
 - 👀 I’m interested in Full Stack Development.
-- 🌱 I’m currently learning React JS.
+- 🌱 I’m currently learning ReactJS.
 - 📫 How to reach me vkkeerthika24@gmail.com
 <!---
 VKeerthika24/VKeerthika24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
